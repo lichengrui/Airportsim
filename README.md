@@ -8,6 +8,8 @@ The optimization of the operations of the airport system relies heavily on passe
 
 ## Getting Started
 
+Read the final report to get a better idea of this project
+
 ### Dependencies
 
 * Simpy, torch, tensorflow, seaborn, matplotlib, numpy, pandas
