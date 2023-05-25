@@ -12,11 +12,3 @@ The optimization of the operations of the airport system relies heavily on passe
 
 * Simpy, torch, tensorflow, seaborn, matplotlib, numpy, pandas
 
-### Executing program
-
-* Run the dataflights.ipynb file
-* A video tutorial can be found here: https://www.youtube.com/watch?v=ZXV3Z86TX4A
-
-## Authors
-
-Raymond Li, Junyang Tang
