@@ -1,4 +1,4 @@
-# CSE-6730-Team-35
+# Airport Simulation
 
 Airport Simulation
 
